@@ -1,4 +1,4 @@
-<?php
+p<?php
 error_reporting(0);
 Class Bom {
 public $no;
@@ -79,7 +79,7 @@ echo"\n\e[93m
 
 echo "\n\e[93m
 \e[36m===========\e[91m>>>>>>>>>>\n\e[36
-mBOM missed call Tokopedia
+mBOM Sms Hooq
 Original Sc PHP by : Handika Pratama
 Reedit By : @Sandro.putraa
 \e[36m===========\e[91m>>>>>>>>>>";
