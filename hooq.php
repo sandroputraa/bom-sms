@@ -60,11 +60,33 @@ sleep(1);
 }
 }    
 }
-system("clear");
+echo"\n\e[93m 
+   _____                 _           
+  / ____|               | |          
+ | (___   __ _ _ __   __| |_ __ ___  
+  \___ \ / _` | '_ \ / _` | '__/ _ \ 
+  ____) | (_| | | | | (_| | | | (_) |
+ |_____/ \__,_|_| |_|\__,_|_|  \___/
+              _         
+             | |    
+  _ __  _   _| |_ _ __ __ _  __ _ 
+ | '_ \| | | | __| '__/ _` |/ _` |
+ | |_) | |_| | |_| | | (_| | (_| |
+ | .__/ \__,_|\__|_|  \__,_|\__,_|
+ | |                              
+ |_|                               
+\e";
+
 echo "\n\e[93m
 \e[36m===========\e[91m>>>>>>>>>>\n\e[36
-mBOM SMS Hooq
+mBOM missed call Tokopedia
+Original Sc PHP by : Handika Pratama
+Reedit By : @Sandro.putraa
 \e[36m===========\e[91m>>>>>>>>>>";
+
+echo "\n\e[93m
+\e[75mCara Penggunaan\e[91m>>>>>>>>\n\e[91
+minput no target (8.........)";
 echo "\n\e[36mTarget  : ";
 $target=trim(fgets(STDIN, 1024));
 echo "Count   : ";
