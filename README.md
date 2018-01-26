@@ -1,2 +1,2 @@
-# bom-sms
-Buat ngeBOM pke termux
+# bom-sms-php
+Script bom sms PHP menggunakan Termux
